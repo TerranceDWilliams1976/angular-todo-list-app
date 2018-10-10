@@ -1,0 +1,74 @@
+.container-fluid{
+    background-color: #f2f2f2;
+    min-height: 600px;;
+
+
+}
+#ttcTitle{
+   
+    color: rgb(36, 140, 204);
+   
+    
+}
+
+#title{
+    text-align: center;
+    background-color:whitesmoke;
+    color:  rgb(36, 140, 204);
+    border-radius: 5px;
+    font-family: 'Lobster', cursive;
+
+}
+#inputTask{
+    height: 50px;
+}
+
+#task{
+      background-color: gainsboro;
+      margin-top: 10px;
+      padding: 20px;
+      min-height: 500px;
+
+}
+.dateTime{
+    color: gray;
+    
+    padding: 3px;
+}
+.ctrlButtons{
+    float: right;
+}
+#errMessage{
+    background-color: powderblue;
+    display: block;
+    border-radius: 5px;
+    height: 30px;
+    margin: 10px;
+    font-family: 'Domine', serif;
+    padding: 5px;
+}
+#errButton{
+    float: right;
+}
+li{
+    min-height: 50px;
+    font-family: 'Pontano Sans', sans-serif;
+    
+}
+.taskToComplete{
+    background-color: lightblue;
+
+}
+.completedTask{
+   background-color: red;
+}
+body {
+    background-color: red;
+}
+
+/* font-family: 'Acme', sans-serif;
+font-family: 'Pontano Sans', sans-serif;
+font-family: 'Philosopher', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Domine', serif;
+font-family: 'Lobster', cursive; */
